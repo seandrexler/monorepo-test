@@ -1,0 +1,13 @@
+{
+  "name": "monorepo-test",
+  "version": "0.1.0",
+  "description": "sample monorepo utilizing yarn and lerna",
+  "main": "index.js",
+  "repository": "git@github.com:seandrexler/monorepo-test.git",
+  "author": "sean drexler <seand@esdelab.com>",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "lerna": "^3.22.1"
+  }
+}
