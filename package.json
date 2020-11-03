@@ -7,6 +7,9 @@
   "author": "sean drexler <seand@esdelab.com>",
   "license": "MIT",
   "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
   "devDependencies": {
     "lerna": "^3.22.1"
   }
